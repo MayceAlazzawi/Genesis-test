@@ -1,0 +1,79 @@
+body {
+  /* ff 3.6+ */
+  background: -moz-radial-gradient(
+    ellipse at 0% 59%,
+    rgba(0, 0, 255, 1) 0%,
+    rgba(238, 130, 238, 1) 100%
+  );
+
+  /* safari 5.1+,chrome 10+ */
+  background: -webkit-radial-gradient(
+    ellipse at 0% 59%,
+    rgba(0, 0, 255, 1) 0%,
+    rgba(238, 130, 238, 1) 100%
+  );
+
+  /* opera 11.10+ */
+  background: -o-radial-gradient(
+    ellipse at 0% 59%,
+    rgba(0, 0, 255, 1) 0%,
+    rgba(238, 130, 238, 1) 100%
+  );
+
+  /* ie 10+ */
+  background: -ms-radial-gradient(
+    ellipse at 0% 59%,
+    rgba(0, 0, 255, 1) 0%,
+    rgba(238, 130, 238, 1) 100%
+  );
+
+  /* global 92%+ browsers support */
+  background: radial-gradient(
+    ellipse at 0% 59%,
+    rgba(0, 0, 255, 1) 0%,
+    rgba(238, 130, 238, 1) 100%
+  );
+}
+.bg-parent {
+  /* ff 3.6+ */
+  background: -moz-radial-gradient(
+    ellipse at 0% 59%,
+    rgba(0, 0, 255, 1) 0%,
+    rgba(238, 130, 238, 1) 100%
+  );
+
+  /* safari 5.1+,chrome 10+ */
+  background: -webkit-radial-gradient(
+    ellipse at 0% 59%,
+    rgba(0, 0, 255, 1) 0%,
+    rgba(238, 130, 238, 1) 100%
+  );
+
+  /* opera 11.10+ */
+  background: -o-radial-gradient(
+    ellipse at 0% 59%,
+    rgba(0, 0, 255, 1) 0%,
+    rgba(238, 130, 238, 1) 100%
+  );
+
+  /* ie 10+ */
+  background: -ms-radial-gradient(
+    ellipse at 0% 59%,
+    rgba(0, 0, 255, 1) 0%,
+    rgba(238, 130, 238, 1) 100%
+  );
+
+  /* global 92%+ browsers support */
+  background: radial-gradient(
+    ellipse at 0% 59%,
+    rgba(0, 0, 255, 1) 0%,
+    rgba(238, 130, 238, 1) 100%
+  );
+}
+
+.card {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  /* overflow: hidden; */
+  height: 100%;
+}
